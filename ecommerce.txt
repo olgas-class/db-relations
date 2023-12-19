@@ -1,0 +1,8 @@
+1. Abbiamo degli ordini
+2. Ogni ordine è collegato ad un dipendente (che ha preso l'ordine in carico) e un cliente. Ogni ordine può avere diversi prodotti e il relativo pagamento.
+
+ordini
+dipendenti
+clienti
+prodotti
+pagamenti
